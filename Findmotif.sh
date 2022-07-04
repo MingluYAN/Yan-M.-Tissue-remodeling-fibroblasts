@@ -1,0 +1,1 @@
+findMotifsGenome.pl merge.bed hg19  result  -len 8,10,12 
